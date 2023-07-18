@@ -1,0 +1,357 @@
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+Verify Model-Pass
+Verify Model-Pass
+Verify Model -could continue
+Verify Model -could continue
+MAC  Found
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:13:04:8c
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:13:01:70
+Copy FM -could copy
+Copy FM -could copy
+FM FIle copied to AP
+FM FIle copied to AP
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+Verify Model-Pass
+Verify Model-Pass
+Verify Model -could continue
+Verify Model -could continue
+MAC  Found
+MAC  Found
+ Certification process Starts *** 
+ Certification process Starts *** 
+70:6D:EC:13:01:70
+70:6D:EC:13:04:8C
+Copy CER -could copy
+Copy CER -could copy
+Copy CER -could copy
+Copy CER -could copy
+Copy CER -could copy
+Copy CER -could copy
+Copy CER -could copy
+Copy CER -could copy
+Verify cas file in cerificates folder-Pass
+Verify cas file in cerificates folder-Pass
+Verify cas file in cerificates folder -could continue
+Verify cas file in cerificates folder -could continue
+Verify cert file in cerificates folder-Pass
+Verify cert file in cerificates folder-Pass
+Verify cert file in cerificates folder -could continue
+Verify cert file in cerificates folder -could continue
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+Verify Model-Pass
+Verify Model-Pass
+Verify Model -could continue
+Verify Model -could continue
+MAC  Found
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:13:04:8c
+70:6d:ec:13:01:70
+could copy CR files for verification-Pass
+could copy CR files for verification-Pass
+706dec13048c
+706dec130170
+Check if Key.pm file is present
+key.pem
+pass
+Check if Key.pm file is present
+key.pem
+pass
+Check if ca.pm file is present
+
+Check if ca.pm file is present
+ca.pem
+pass
+Check if cert.pm file is present
+cert.pem
+pass
+Check if cert.pm file is present
+cert.pem
+pass
+Check if dev-id file is present
+dev-id
+pass
+Config Detials
+Check if dev-id file is present
+
+config ucentral 'config'
+	option server 'ucpost.indionetworks.com'
+	option port '15002'
+	option debug '1'
+	option reporting '10'
+	option serial '706dec13048c'
+dev-id
+pass
+Config Detials
+
+config ucentral 'config'
+	option port '15002'
+	option debug '1'
+	option reporting '10'
+	option serial '706dec130170'
+	option server 'ucpost.indionetworks.com'
+Ping Results
+706dec13048c   _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-e65fa74-devel
+ OpenWrt 21.02-SNAPSHOT, r16399+153-c67509efd7
+ ---------------------------------------------------
+I am pinging do not worry
+PING google.com (142.250.192.142): 56 data bytes
+64 bytes from 142.250.192.142: seq=0 ttl=57 time=7.820 ms
+64 bytes from 142.250.192.142: seq=1 ttl=57 time=8.125 ms
+64 bytes from 142.250.192.142: seq=2 ttl=57 time=7.811 ms
+64 bytes from 142.250.192.142: seq=3 ttl=57 time=8.247 ms
+64 bytes from 142.250.192.142: seq=4 ttl=57 time=8.221 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.811/8.044/8.247 ms
+Ping Results
+706dec130170   _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+I am pinging do not worry
+PING google.com (142.250.192.142): 56 data bytes
+64 bytes from 142.250.192.142: seq=0 ttl=57 time=7.785 ms
+64 bytes from 142.250.192.142: seq=1 ttl=57 time=8.257 ms
+64 bytes from 142.250.192.142: seq=2 ttl=57 time=8.199 ms
+64 bytes from 142.250.192.142: seq=3 ttl=57 time=8.357 ms
+64 bytes from 142.250.192.142: seq=4 ttl=57 time=8.256 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.785/8.170/8.357 ms
+706dec130170   _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-8ad58ca-v2.8.0
+ OpenWrt 21.02-SNAPSHOT, r16399+154-c67509efd7
+ ---------------------------------------------------
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       
+tcp        0      0 172.31.254.191:53806    static-99.224.143.114-tataidc.co.in:15002 ESTABLISHED 
+tcp        0     76 172.31.254.191:ssh      172.31.255.19:51960     ESTABLISHED 
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node Path
+unix  2      [ ]         DGRAM                     13855 /tmp/wpa_ctrl_9415-1
+unix  2      [ ]         DGRAM                     13610 /tmp/wpa_ctrl_8844-1
+unix  14     [ ]         DGRAM                       310 /dev/log
+unix  2      [ ]         DGRAM                     16459 /tmp/wpa_ctrl_9726-1
+unix  2      [ ]         DGRAM                      1906 /var/run/wpa_supplicant/global
+unix  2      [ ]         DGRAM                     13199 /tmp/wpa_ctrl_2347-4
+unix  2      [ ]         DGRAM                      4248 /var/run/hostapd/global
+unix  2      [ ]         DGRAM                     13220 /var/run/wpa_supplicant/wlan1
+unix  2      [ ]         DGRAM                     14508 /tmp/wpa_ctrl_9032-1
+unix  2      [ ]         DGRAM                     12250 /tmp/wpa_ctrl_2347-3
+unix  2      [ ]         DGRAM                     12262 /var/run/wpa_supplicant/wlan0
+unix  4      [ ]         DGRAM                     13553 /var/run/hostapd/wlan1-1
+unix  3      [ ]         DGRAM                     13555 /var/run/hostapd/wlanc1
+unix  4      [ ]         DGRAM                     12021 /var/run/hostapd/wlan0-1
+unix  3      [ ]         DGRAM                     12023 /var/run/hostapd/wlanc0
+unix  3      [ ]         STREAM     CONNECTED       3820 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       4251 
+unix  3      [ ]         STREAM     CONNECTED      13853 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      11753 
+unix  2      [ ]         DGRAM                     14314 
+unix  3      [ ]         STREAM     CONNECTED        870 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       1909 
+unix  3      [ ]         STREAM     CONNECTED       1318 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     14217 
+unix  3      [ ]         STREAM     CONNECTED       6258 
+unix  3      [ ]         STREAM     CONNECTED      15028 
+unix  3      [ ]         STREAM     CONNECTED      13934 
+unix  3      [ ]         STREAM     CONNECTED      10394 
+unix  2      [ ]         DGRAM                      4692 
+unix  2      [ ]         DGRAM                      2083 
+unix  3      [ ]         STREAM     CONNECTED      16490 
+unix  3      [ ]         STREAM     CONNECTED       2087 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2878 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      14313 
+unix  3      [ ]         STREAM     CONNECTED       1841 
+unix  3      [ ]         STREAM     CONNECTED      16048 
+unix  3      [ ]         STREAM     CONNECTED       7998 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       6199 
+unix  2      [ ]         DGRAM                       667 
+unix  3      [ ]         STREAM     CONNECTED      15587 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      14825 
+unix  2      [ ]         DGRAM                     16194 
+unix  3      [ ]         STREAM     CONNECTED      10637 
+unix  3      [ ]         STREAM     CONNECTED      16060 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      15238 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      16049 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     16739 
+unix  3      [ ]         STREAM     CONNECTED       9066 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       7190 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                      1891 
+unix  3      [ ]         STREAM     CONNECTED       7391 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      14105 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED        819 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      15106 
+unix  2      [ ]         DGRAM                     16197 
+unix  3      [ ]         STREAM     CONNECTED      14220 
+unix  3      [ ]         STREAM     CONNECTED      16782 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       1142 
+unix  3      [ ]         STREAM     CONNECTED       1334 
+unix  3      [ ]         STREAM     CONNECTED      14221 
+unix  3      [ ]         STREAM     CONNECTED      13315 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED        670 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2879 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2860 
+unix  3      [ ]         STREAM     CONNECTED       5753 
+unix  3      [ ]         STREAM     CONNECTED      15488 
+unix  2      [ ]         DGRAM                     10629 
+unix  3      [ ]         STREAM     CONNECTED        669 
+unix  2      [ ]         DGRAM                       859 
+unix  3      [ ]         STREAM     CONNECTED       4694 
+unix  3      [ ]         STREAM     CONNECTED      16193 
+unix  3      [ ]         STREAM     CONNECTED      14015 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2861 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                      4239 
+unix  3      [ ]         STREAM     CONNECTED      15063 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     11281 
+unix  3      [ ]         STREAM     CONNECTED       2822 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                      6259 
+unix  3      [ ]         STREAM     CONNECTED        312 
+Reason for Net stat Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+706dec13048c   _______                     ________ __ ______ __
+ |       |.-----.-----.-----.|  |  |  |__|   ___|__|
+ |   -   ||  _  |  -__|     ||  |  |  |  |   ___|  |
+ |_______||   __|_____|__|__||________|__|__|   |__|
+          |__| W I R E L E S S   F R E E D O M
+ ---------------------------------------------------
+ ApNos-e65fa74-devel
+ OpenWrt 21.02-SNAPSHOT, r16399+153-c67509efd7
+ ---------------------------------------------------
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       
+tcp        0     76 172.31.254.189:ssh      172.31.255.19:51334     ESTABLISHED 
+tcp        0      0 172.31.254.189:47954    static-99.224.143.114-tataidc.co.in:15002 ESTABLISHED 
+udp        0      0 172.31.254.189:49561    static-102.224.143.114-tataidc.co.in:radius-acct ESTABLISHED 
+udp        0      0 172.31.254.189:53191    static-102.224.143.114-tataidc.co.in:radius ESTABLISHED 
+udp        0      0 172.31.254.189:39976    static-102.224.143.114-tataidc.co.in:radius-acct ESTABLISHED 
+udp        0      0 172.31.254.189:41584    static-102.224.143.114-tataidc.co.in:radius ESTABLISHED 
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node Path
+unix  2      [ ]         DGRAM                      4352 /var/run/hostapd/global
+unix  2      [ ]         DGRAM                      4356 /var/run/wpa_supplicant/global
+unix  3      [ ]         DGRAM                     10063 /var/run/hostapd/wlanc1
+unix  3      [ ]         DGRAM                     10065 /var/run/hostapd/wlan1-1
+unix  2      [ ]         DGRAM                     13430 /tmp/wpa_ctrl_7966-1
+unix  2      [ ]         DGRAM                     12441 /tmp/wpa_ctrl_7504-1
+unix  14     [ ]         DGRAM                      2255 /dev/log
+unix  2      [ ]         DGRAM                     12518 /tmp/wpa_ctrl_7800-1
+unix  3      [ ]         DGRAM                     11762 /var/run/hostapd/wlanc0
+unix  3      [ ]         DGRAM                     11764 /var/run/hostapd/wlan0-1
+unix  2      [ ]         DGRAM                     10748 /tmp/wpa_ctrl_7656-1
+unix  3      [ ]         STREAM     CONNECTED      10973 
+unix  3      [ ]         STREAM     CONNECTED       4328 
+unix  3      [ ]         STREAM     CONNECTED      14339 
+unix  3      [ ]         STREAM     CONNECTED      14390 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       9127 
+unix  3      [ ]         STREAM     CONNECTED       3229 
+unix  3      [ ]         STREAM     CONNECTED       2257 
+unix  3      [ ]         STREAM     CONNECTED      15474 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2480 
+unix  3      [ ]         STREAM     CONNECTED      10974 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     13203 
+unix  2      [ ]         DGRAM                      2140 
+unix  3      [ ]         STREAM     CONNECTED       4355 
+unix  2      [ ]         DGRAM                      2526 
+unix  3      [ ]         STREAM     CONNECTED      14398 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2527 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      10318 
+unix  2      [ ]         DGRAM                     13206 
+unix  3      [ ]         STREAM     CONNECTED      13714 
+unix  2      [ ]         DGRAM                      4339 
+unix  3      [ ]         STREAM     CONNECTED      13715 
+unix  3      [ ]         STREAM     CONNECTED       5249 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      13809 
+unix  3      [ ]         STREAM     CONNECTED       4451 
+unix  3      [ ]         STREAM     CONNECTED       2269 
+unix  3      [ ]         STREAM     CONNECTED      14340 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      13202 
+unix  3      [ ]         STREAM     CONNECTED       4606 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     11295 
+unix  3      [ ]         STREAM     CONNECTED       7469 
+unix  3      [ ]         STREAM     CONNECTED      10914 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       4350 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       9128 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       5155 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED        794 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      13831 
+unix  2      [ ]         DGRAM                     12244 
+unix  3      [ ]         STREAM     CONNECTED       4845 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      11013 
+unix  3      [ ]         STREAM     CONNECTED       8623 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     13711 
+unix  2      [ ]         DGRAM                      4326 
+unix  3      [ ]         STREAM     CONNECTED      13619 
+unix  3      [ ]         STREAM     CONNECTED       2144 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2258 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                      2891 
+unix  3      [ ]         STREAM     CONNECTED      10913 
+unix  3      [ ]         STREAM     CONNECTED       4349 
+unix  2      [ ]         DGRAM                      6292 
+unix  3      [ ]         STREAM     CONNECTED       6295 
+unix  3      [ ]         STREAM     CONNECTED      13807 
+unix  3      [ ]         STREAM     CONNECTED        793 
+unix  3      [ ]         STREAM     CONNECTED       3720 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      14384 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       4329 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                     13808 
+unix  2      [ ]         DGRAM                     10316 
+unix  3      [ ]         STREAM     CONNECTED       4359 
+unix  3      [ ]         STREAM     CONNECTED      12056 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED      11014 /var/run/ubus/ubus.sock
+unix  3      [ ]         STREAM     CONNECTED       2889 /var/run/ubus/ubus.sock
+unix  2      [ ]         DGRAM                      2869 
+Reason for Net stat Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Verify FM Version-Fail
+Verify FM Version-Fail
+Verify FM Version -could continue
+Verify FM Version -could continue
+MAC Not Found could not continue
+MAC Not Found could not continue
+Verify FM Version -pass
+Verify FM Version -pass
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+*** FM - Certification - Verification process Ends *** 
+*** FM - Certification - Verification process Ends *** 

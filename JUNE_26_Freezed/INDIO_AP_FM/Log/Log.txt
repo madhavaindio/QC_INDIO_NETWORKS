@@ -1,0 +1,297 @@
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+Verify Model-Pass
+Verify Model-Pass
+Verify Model -could continue
+Verify Model -could continue
+MAC  Found
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+*** FM process Starts *** 
+70:6d:ec:0a:56:0a
+FM process Starts for AP MAC address ***
+72:6d:ec:0a:30:be
+Copy FM -could copy
+Copy FM -could copy
+FM FIle copied to AP
+FM FIle copied to AP
+Install FM -could continue
+Install FM -could continue
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+Verify Model-Pass
+Verify Model-Pass
+Verify Model -could continue
+Verify Model -could continue
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0a:56:0a
+MAC  Found
+ FM -  Verification Starts *** 
+72:6d:ec:0a:30:be
+Ping Results
+706dec0a560a TZ
+boot_checkin
+checkin_error_count
+config.sh
+dhcp.leases
+dnsmasq.d
+dropbear
+etc
+fifo_cmdmgr
+fifo_upgrade
+hardware_reboot_check
+hosts
+interfaces.temp
+lib
+lock
+log
+modem_reset.log
+my_server
+neighbor-ap-scan.txt
+resolv.conf
+resolv.conf.auto
+root
+run
+shm
+spool
+state
+sysinfo
+tmp
+wan-status.log
+wifireset-log.txt
+wlan-hs24-status.log
+wlan-hs50-status.log
+wlan0-1-status.log
+wlan0-2-status.log
+wlan1-1-status.log
+wlan1-2-status.log
+I am pinging do not worry
+PING google.com (172.217.160.206): 56 data bytes
+64 bytes from 172.217.160.206: seq=0 ttl=57 time=8.262 ms
+64 bytes from 172.217.160.206: seq=1 ttl=57 time=8.022 ms
+64 bytes from 172.217.160.206: seq=2 ttl=57 time=7.833 ms
+64 bytes from 172.217.160.206: seq=3 ttl=57 time=8.204 ms
+64 bytes from 172.217.160.206: seq=4 ttl=57 time=7.839 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.833/8.032/8.262 ms
+Ping Results
+726dec0a30be TZ
+boot_checkin
+checkin_error_count
+config.sh
+dhcp.leases
+dnsmasq.d
+dropbear
+etc
+fifo_cmdmgr
+fifo_upgrade
+hardware_reboot_check
+hosts
+interfaces.temp
+lib
+lock
+log
+modem_reset.log
+my_server
+neighbor-ap-scan.txt
+resolv.conf
+resolv.conf.auto
+root
+run
+shm
+spool
+state
+sysinfo
+tmp
+wan-status.log
+wifireset-log.txt
+wlan-hs24-status.log
+wlan-hs50-status.log
+wlan0-1-status.log
+wlan0-2-status.log
+wlan1-1-status.log
+wlan1-2-status.log
+I am pinging do not worry
+PING google.com (142.250.192.110): 56 data bytes
+64 bytes from 142.250.192.110: seq=0 ttl=57 time=8.288 ms
+64 bytes from 142.250.192.110: seq=1 ttl=57 time=7.733 ms
+64 bytes from 142.250.192.110: seq=2 ttl=57 time=7.828 ms
+64 bytes from 142.250.192.110: seq=3 ttl=57 time=7.848 ms
+64 bytes from 142.250.192.110: seq=4 ttl=57 time=7.640 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.640/7.867/8.288 ms
+Verify FM Version-Pass
+Verify FM Version -could continue
+Verify FM Version-Pass
+Verify FM Version -could continue
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+MAC  Found
+MAC  Found
+ FM -  Verification Starts *** 
+72:6d:ec:0a:30:be
+ FM -  Verification Starts *** 
+70:6d:ec:0a:56:0a
+Ping Results
+726dec0a30be TZ
+boot_checkin
+checkin_error_count
+config.sh
+dhcp.leases
+dnsmasq.d
+dropbear
+etc
+fifo_cmdmgr
+fifo_upgrade
+hardware_reboot_check
+hosts
+interfaces.temp
+lib
+lock
+log
+modem_reset.log
+my_server
+neighbor-ap-scan.txt
+resolv.conf
+resolv.conf.auto
+root
+run
+shm
+spool
+state
+sysinfo
+tmp
+wan-status.log
+wifireset-log.txt
+wlan-hs24-status.log
+wlan-hs50-status.log
+wlan0-1-status.log
+wlan0-2-status.log
+wlan1-1-status.log
+wlan1-2-status.log
+I am pinging do not worry
+PING google.com (142.250.199.142): 56 data bytes
+64 bytes from 142.250.199.142: seq=0 ttl=57 time=7.850 ms
+64 bytes from 142.250.199.142: seq=1 ttl=57 time=8.033 ms
+64 bytes from 142.250.199.142: seq=2 ttl=57 time=7.911 ms
+64 bytes from 142.250.199.142: seq=3 ttl=57 time=7.888 ms
+64 bytes from 142.250.199.142: seq=4 ttl=57 time=7.691 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.691/7.874/8.033 ms
+Ping Results
+706dec0a560a TZ
+boot_checkin
+checkin_error_count
+checkin_output
+config.sh
+dhcp.leases
+dnsmasq.d
+dropbear
+etc
+fifo_cmdmgr
+fifo_upgrade
+hardware_reboot_check
+hosts
+interfaces.temp
+lib
+lock
+log
+modem_reset.log
+my_server
+neighbor-ap-scan.txt
+resolv.conf
+resolv.conf.auto
+root
+run
+shm
+spool
+state
+sysinfo
+tmp
+wan-status.log
+wifireset-log.txt
+wlan-hs24-status.log
+wlan-hs50-status.log
+wlan0-1-status.log
+wlan0-2-status.log
+wlan1-1-status.log
+wlan1-2-status.log
+I am pinging do not worry
+PING google.com (142.250.199.174): 56 data bytes
+64 bytes from 142.250.199.174: seq=0 ttl=57 time=8.236 ms
+64 bytes from 142.250.199.174: seq=1 ttl=57 time=8.128 ms
+64 bytes from 142.250.199.174: seq=2 ttl=57 time=7.705 ms
+64 bytes from 142.250.199.174: seq=3 ttl=57 time=8.103 ms
+64 bytes from 142.250.199.174: seq=4 ttl=57 time=7.922 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.705/8.018/8.236 ms
+Verify FM Version-Pass
+Verify FM Version -could continue
+Verify FM Version-Pass
+Verify FM Version -could continue
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+MAC  Found
+MAC  Found
+Verify FM Version -pass
+Verify FM Version -pass
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+
+
+..old FM--
+
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+Verify Model-Fail
+Verify Model-Fail
+Verify Login-Pass
+Verify Login-Pass
+Verify Login -could continue
+Verify Login -could continue
+MAC  Found
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:13:04:8c
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:13:01:70
+Copy FM -could copy
+Copy FM -could copy
+FM FIle copied to AP
+FM FIle copied to AP

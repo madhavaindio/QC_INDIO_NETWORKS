@@ -1,0 +1,11 @@
+    MAC   -  FM Verison check -   PING Results -    Braodcast Check    
+   70:6D:EC:0D:15:7F   pass-    pass-    pass   
+   70:6D:EC:0D:14:C7   pass-    pass-    pass   
+    MAC   -  FM Verison check -   PING Results -    Braodcast Check    
+    MAC   -  FM Verison check -   PING Results -    Braodcast Check    
+   70:6D:EC:0D:14:C7   pass-    pass-    pass   
+   70:6D:EC:0D:16:D3   pass-    fail-    pass   
+   70:6D:EC:0D:15:83   pass-    fail-    fail   
+   70:6D:EC:0D:14:1F   pass-    pass-    pass   
+   70:6D:EC:0D:16:6F   pass-    pass-    fail   
+   70:6D:EC:0D:15:7F   pass-    fail-    fail   

@@ -1,0 +1,7 @@
+    MAC   -  FM Verison check -   PING Results -    Braodcast Check  -etho -eth1-wlan1  
+   726DEC0A30BE   Pass-    pass-    Fail  Fail Pass 
+   706DEC0A560A   Pass-    pass-    Fail  Fail Pass 
+    MAC   -  FM Verison check -   PING Results -    Braodcast Check -etho -eth1- wlan   
+   706DEC0A560A   Pass-    pass-    Fail  Fail Pass 
+   726DEC0A30BE   Pass-    pass-    Fail  Fail Pass 
+    MAC   -  FM Verison check -   PING Results -    Braodcast Check -etho -eth1- wlan   

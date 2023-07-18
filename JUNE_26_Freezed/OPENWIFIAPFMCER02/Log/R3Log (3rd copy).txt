@@ -1,0 +1,343 @@
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:7e
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:8a
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:56
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:14:8b
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:14:7f
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:57
+Ping Results
+706dec0d148b I am pinging do not worry
+PING google.com (142.250.183.142): 56 data bytes
+64 bytes from 142.250.183.142: seq=0 ttl=56 time=38.860 ms
+64 bytes from 142.250.183.142: seq=1 ttl=56 time=16.760 ms
+64 bytes from 142.250.183.142: seq=2 ttl=56 time=14.420 ms
+64 bytes from 142.250.183.142: seq=3 ttl=56 time=24.000 ms
+64 bytes from 142.250.183.142: seq=4 ttl=56 time=40.180 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 14.420/26.844/40.180 ms
+Ping Results
+706dec0d1657 I am pinging do not worry
+PING google.com (142.250.183.142): 56 data bytes
+64 bytes from 142.250.183.142: seq=0 ttl=56 time=37.580 ms
+64 bytes from 142.250.183.142: seq=1 ttl=56 time=25.300 ms
+64 bytes from 142.250.183.142: seq=2 ttl=56 time=9.180 ms
+64 bytes from 142.250.183.142: seq=3 ttl=56 time=24.640 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 4 packets received, 20% packet loss
+round-trip min/avg/max = 9.180/24.175/37.580 ms
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Ping Results
+706dec0d147f I am pinging do not worry
+PING google.com (142.250.183.142): 56 data bytes
+64 bytes from 142.250.183.142: seq=1 ttl=56 time=8.220 ms
+64 bytes from 142.250.183.142: seq=2 ttl=56 time=30.980 ms
+64 bytes from 142.250.183.142: seq=3 ttl=56 time=37.840 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 3 packets received, 40% packet loss
+round-trip min/avg/max = 8.220/25.680/37.840 ms
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+706dec0d148b #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d1657 #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d147f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+
+
+
+............ROUND 3......................
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:ab
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:9f
+Ping Results
+706dec0d16ab I am pinging do not worry
+PING google.com (142.250.77.46): 56 data bytes
+64 bytes from 142.250.77.46: seq=0 ttl=56 time=8.180 ms
+64 bytes from 142.250.77.46: seq=1 ttl=56 time=8.300 ms
+64 bytes from 142.250.77.46: seq=2 ttl=56 time=8.780 ms
+64 bytes from 142.250.77.46: seq=3 ttl=56 time=7.900 ms
+64 bytes from 142.250.77.46: seq=4 ttl=56 time=8.620 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.900/8.356/8.780 ms
+Ping Results
+706dec0d169f I am pinging do not worry
+PING google.com (142.250.77.46): 56 data bytes
+64 bytes from 142.250.77.46: seq=0 ttl=56 time=7.939 ms
+64 bytes from 142.250.77.46: seq=1 ttl=56 time=8.220 ms
+64 bytes from 142.250.77.46: seq=2 ttl=56 time=7.979 ms
+64 bytes from 142.250.77.46: seq=3 ttl=56 time=8.380 ms
+64 bytes from 142.250.77.46: seq=4 ttl=56 time=8.460 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.939/8.195/8.460 ms
+706dec0d16ab #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2022110102 MobiMax
+Reason for FM Check Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+706dec0d169f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2022110102 MobiMax
+Reason for FM Check Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:aa
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:9e
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:9f
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:ab
+Ping Results
+706dec0d169f I am pinging do not worry
+PING google.com (142.250.183.142): 56 data bytes
+64 bytes from 142.250.183.142: seq=0 ttl=56 time=8.480 ms
+64 bytes from 142.250.183.142: seq=1 ttl=56 time=8.880 ms
+64 bytes from 142.250.183.142: seq=2 ttl=56 time=8.000 ms
+64 bytes from 142.250.183.142: seq=3 ttl=56 time=9.240 ms
+64 bytes from 142.250.183.142: seq=4 ttl=56 time=8.260 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 8.000/8.572/9.240 ms
+Ping Results
+706dec0d16ab I am pinging do not worry
+PING google.com (142.250.183.142): 56 data bytes
+64 bytes from 142.250.183.142: seq=0 ttl=56 time=13.880 ms
+64 bytes from 142.250.183.142: seq=1 ttl=56 time=8.640 ms
+64 bytes from 142.250.183.142: seq=2 ttl=56 time=10.160 ms
+64 bytes from 142.250.183.142: seq=3 ttl=56 time=8.721 ms
+64 bytes from 142.250.183.142: seq=4 ttl=56 time=7.900 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.900/9.860/13.880 ms
+706dec0d169f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d16ab #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 

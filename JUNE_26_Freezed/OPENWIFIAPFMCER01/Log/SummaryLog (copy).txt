@@ -1,0 +1,6 @@
+MAC   -FM Verison check - PING Results -  Braodcast Check -SSIDNAME  
+ 706dec0a560a     pass-      pass-      fail  pass 
+ 706dec0a950a     pass-      pass-      fail  pass 
+ 726dec0a30be     pass-      pass-      fail  pass 
+    MAC   -FM Verison check - PING Results -  Braodcast Check -SSIDNAME  
+ 706dec0a864e     pass-      pass-      fail  pass 

@@ -1,0 +1,3 @@
+    MAC   -    FM Verison check -   PING Results -    Braodcast Check   -SSIDNAME  
+ 
+ 706dec0d168e     pass-              pass-              fail              fail 

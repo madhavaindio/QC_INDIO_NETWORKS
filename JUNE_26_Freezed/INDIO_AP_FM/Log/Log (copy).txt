@@ -1,0 +1,748 @@
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+MAC  Found
+MAC  Found
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+72:6d:ec:0a:30:be
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+70:6d:ec:0a:56:0a
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+70:6d:ec:0a:95:0a
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:0a:95:0a
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:0a:56:0a
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+72:6d:ec:0a:30:be
+Ping Results
+706dec0a950a I am pinging do not worry
+PING google.com (142.250.182.206): 56 data bytes
+
+--- google.com ping statistics ---
+5 packets transmitted, 0 packets received, 100% packet loss
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Ping Results
+706dec0a560a I am pinging do not worry
+PING google.com (142.250.182.206): 56 data bytes
+
+--- google.com ping statistics ---
+5 packets transmitted, 0 packets received, 100% packet loss
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Ping Results
+726dec0a30be I am pinging do not worry
+PING google.com (142.250.182.206): 56 data bytes
+
+--- google.com ping statistics ---
+5 packets transmitted, 0 packets received, 100% packet loss
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+706dec0a950a #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio UniMax 2022010107
+706dec0a560a #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio UniMax 2022010107
+726dec0a30be #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio UniMax 2022010107
+Could not connect to AP SSID
+Could not connect to AP SSID
+Could not connect to AP SSID
+706dec0a560a wlan-hs24 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:56:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -92 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan-hs50 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:56:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -101 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:56:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:56:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan1-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:56:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -92 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan1-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:56:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -92 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+*** FM - Certification - Verification process Ends *** 
+706dec0a950a wlan-hs24 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:95:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -92 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan-hs50 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:95:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -101 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:95:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:95:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan1-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:95:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -92 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan1-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:95:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -92 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+*** FM - Certification - Verification process Ends *** 
+726dec0a30be wlan-hs24 ESSID: "INDIO-Guest"
+          Access Point: 72:6D:EC:0A:30:BC
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -95 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan-hs50 ESSID: "INDIO-Guest"
+          Access Point: 72:6D:EC:0A:30:BF
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -99 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-1   ESSID: "INDIO"
+          Access Point: 70:6D:EC:0A:30:BF
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -98 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-2   ESSID: "INDIO-Admin"
+          Access Point: 74:6D:EC:0A:30:BF
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -98 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan1-1   ESSID: "INDIO"
+          Access Point: 70:6D:EC:0A:30:BC
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -95 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan1-2   ESSID: "INDIO-Admin"
+          Access Point: 74:6D:EC:0A:30:BC
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -95 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+*** FM - Certification - Verification process Ends *** 
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+72:6d:ec:0a:30:be
+MAC  Found
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+70:6d:ec:0a:95:0a
+MAC  Found
+*** FM process Starts *** 
+FM and Certification process Starts for AP MAC address ***
+70:6d:ec:0a:56:0a
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:0a:56:0a
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+70:6d:ec:0a:95:0a
+MAC  Found
+ FM - Certification process -- Verification Starts *** 
+72:6d:ec:0a:30:be
+Ping Results
+Ping Results
+706dec0a950a I am pinging do not worry
+PING google.com (142.251.42.46): 56 data bytes
+64 bytes from 142.251.42.46: seq=0 ttl=56 time=8.074 ms
+64 bytes from 142.251.42.46: seq=1 ttl=56 time=8.188 ms
+64 bytes from 142.251.42.46: seq=2 ttl=56 time=7.984 ms
+64 bytes from 142.251.42.46: seq=3 ttl=56 time=8.229 ms
+64 bytes from 142.251.42.46: seq=4 ttl=56 time=8.484 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.984/8.191/8.484 ms
+706dec0a560a I am pinging do not worry
+PING google.com (142.251.42.46): 56 data bytes
+64 bytes from 142.251.42.46: seq=0 ttl=56 time=8.014 ms
+64 bytes from 142.251.42.46: seq=1 ttl=56 time=7.603 ms
+64 bytes from 142.251.42.46: seq=2 ttl=56 time=8.631 ms
+64 bytes from 142.251.42.46: seq=3 ttl=56 time=7.581 ms
+64 bytes from 142.251.42.46: seq=4 ttl=56 time=8.663 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 7.581/8.098/8.663 ms
+Ping Results
+726dec0a30be I am pinging do not worry
+PING google.com (142.251.42.46): 56 data bytes
+64 bytes from 142.251.42.46: seq=0 ttl=56 time=10.228 ms
+64 bytes from 142.251.42.46: seq=1 ttl=56 time=8.666 ms
+64 bytes from 142.251.42.46: seq=2 ttl=56 time=8.568 ms
+64 bytes from 142.251.42.46: seq=3 ttl=56 time=8.822 ms
+64 bytes from 142.251.42.46: seq=4 ttl=56 time=8.665 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 8.568/8.989/10.228 ms
+706dec0a560a #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio UniMax 2022010107
+706dec0a950a #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio UniMax 2022010107
+726dec0a30be #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio UniMax 2022010107
+Could not connect to AP SSID
+Could not connect to AP SSID
+Could not connect to AP SSID
+706dec0a560a wlan-hs24 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:56:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -94 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan-hs50 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:56:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:56:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:56:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -103 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan1-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:56:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -94 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan1-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:56:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -94 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+*** FM - Certification - Verification process Ends *** 
+726dec0a30be wlan-hs24 ESSID: "INDIO-Guest"
+          Access Point: 72:6D:EC:0A:30:BC
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -95 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan-hs50 ESSID: "INDIO-Guest"
+          Access Point: 72:6D:EC:0A:30:BF
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -100 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-1   ESSID: "INDIO"
+          Access Point: 70:6D:EC:0A:30:BF
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -100 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-2   ESSID: "INDIO-Admin"
+          Access Point: 74:6D:EC:0A:30:BF
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -100 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan1-1   ESSID: "INDIO"
+          Access Point: 70:6D:EC:0A:30:BC
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -95 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan1-2   ESSID: "INDIO-Admin"
+          Access Point: 74:6D:EC:0A:30:BC
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -95 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+*** FM - Certification - Verification process Ends *** 
+706dec0a950a wlan-hs24 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:95:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -93 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan-hs50 ESSID: "INDIO-Guest"
+          Access Point: 70:6D:EC:0A:95:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -101 dBm
+          Bit Rate: unknown
+          Encryption: none
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:95:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -102 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan0-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:95:0B
+          Mode: Master  Channel: 36 (5.180 GHz)
+          Tx-Power: 23 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -102 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11nac
+          Hardware: 168C:0050 0000:0000 [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy0
+
+wlan1-1   ESSID: "INDIO"
+          Access Point: 72:6D:EC:0A:95:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -93 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+
+wlan1-2   ESSID: "INDIO-Admin"
+          Access Point: 76:6D:EC:0A:95:08
+          Mode: Master  Channel: 11 (2.462 GHz)
+          Tx-Power: 30 dBm  Link Quality: unknown/70
+          Signal: unknown  Noise: -93 dBm
+          Bit Rate: unknown
+          Encryption: mixed WPA/WPA2 PSK (CCMP)
+          Type: nl80211  HW Mode(s): 802.11bgn
+          Hardware: unknown [Generic MAC80211]
+          TX power offset: unknown
+          Frequency offset: unknown
+          Supports VAPs: yes  PHY name: phy1
+*** FM - Certification - Verification process Ends *** 
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass

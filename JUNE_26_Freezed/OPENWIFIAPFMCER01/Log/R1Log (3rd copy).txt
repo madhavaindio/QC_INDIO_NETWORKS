@@ -1,0 +1,435 @@
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:1e
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:15:7e
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:12
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:6e
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:d2
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:c6
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:15:82
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:15:7f
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:14:c7
+Ping Results
+706dec0d157f I am pinging do not worry
+PING google.com (142.250.183.14): 56 data bytes
+64 bytes from 142.250.183.14: seq=0 ttl=56 time=8.260 ms
+64 bytes from 142.250.183.14: seq=1 ttl=56 time=8.460 ms
+64 bytes from 142.250.183.14: seq=2 ttl=56 time=10.340 ms
+64 bytes from 142.250.183.14: seq=3 ttl=56 time=8.480 ms
+64 bytes from 142.250.183.14: seq=4 ttl=56 time=9.980 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 8.260/9.104/10.340 ms
+Ping Results
+706dec0d14c7 I am pinging do not worry
+PING google.com (142.250.183.14): 56 data bytes
+64 bytes from 142.250.183.14: seq=0 ttl=56 time=8.580 ms
+64 bytes from 142.250.183.14: seq=1 ttl=56 time=8.120 ms
+64 bytes from 142.250.183.14: seq=2 ttl=56 time=8.600 ms
+64 bytes from 142.250.183.14: seq=3 ttl=56 time=8.500 ms
+64 bytes from 142.250.183.14: seq=4 ttl=56 time=8.700 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 8.120/8.500/8.700 ms
+706dec0d157f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d14c7 #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+MAC  Found
+*** FM process Starts *** 
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:1e
+70:6d:ec:0d:15:82
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:15:7e
+MAC  Found
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:d2
+MAC  Found
+*** FM process Starts *** 
+MAC  Found
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:16:6e
+*** FM process Starts *** 
+FM process Starts for AP MAC address ***
+70:6d:ec:0d:14:c6
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM Copied successfully to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM FIle copied to AP
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+FM Upgradation could proceed
+FM Upgradation could continue -Verify
+could connect UNIBOX -Pass
+could copy MAC LIST From UNIBOX -Pass
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+Logged in Properly into AP
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+AP Model Match
+MAC  Found
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:d3
+ FM -  Verification Starts *** 
+70:6d:ec:0d:15:83
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:14:c7
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:16:6f
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:14:1f
+MAC  Found
+ FM -  Verification Starts *** 
+70:6d:ec:0d:15:7f
+Ping Results
+706dec0d14c7 I am pinging do not worry
+PING google.com (142.250.183.46): 56 data bytes
+64 bytes from 142.250.183.46: seq=0 ttl=56 time=108.140 ms
+64 bytes from 142.250.183.46: seq=1 ttl=56 time=41.640 ms
+64 bytes from 142.250.183.46: seq=2 ttl=56 time=38.160 ms
+64 bytes from 142.250.183.46: seq=3 ttl=56 time=58.160 ms
+64 bytes from 142.250.183.46: seq=4 ttl=56 time=40.180 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 38.160/57.256/108.140 ms
+Ping Results
+706dec0d1583 I am pinging do not worry
+PING google.com (142.250.183.46): 56 data bytes
+64 bytes from 142.250.183.46: seq=1 ttl=56 time=22.440 ms
+64 bytes from 142.250.183.46: seq=2 ttl=56 time=31.240 ms
+64 bytes from 142.250.183.46: seq=3 ttl=56 time=31.880 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 3 packets received, 40% packet loss
+round-trip min/avg/max = 22.440/28.520/31.880 ms
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Ping Results
+706dec0d16d3 I am pinging do not worry
+PING google.com (142.250.183.46): 56 data bytes
+64 bytes from 142.250.183.46: seq=1 ttl=56 time=22.240 ms
+64 bytes from 142.250.183.46: seq=2 ttl=56 time=26.100 ms
+64 bytes from 142.250.183.46: seq=3 ttl=56 time=33.980 ms
+64 bytes from 142.250.183.46: seq=4 ttl=56 time=36.220 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 4 packets received, 20% packet loss
+round-trip min/avg/max = 22.240/29.635/36.220 ms
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Ping Results
+706dec0d166f I am pinging do not worry
+PING google.com (142.250.183.46): 56 data bytes
+64 bytes from 142.250.183.46: seq=0 ttl=56 time=38.860 ms
+64 bytes from 142.250.183.46: seq=1 ttl=56 time=34.840 ms
+64 bytes from 142.250.183.46: seq=2 ttl=56 time=39.700 ms
+64 bytes from 142.250.183.46: seq=3 ttl=56 time=36.040 ms
+64 bytes from 142.250.183.46: seq=4 ttl=56 time=30.540 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 30.540/35.996/39.700 ms
+Ping Results
+706dec0d141f I am pinging do not worry
+PING google.com (142.250.183.46): 56 data bytes
+64 bytes from 142.250.183.46: seq=0 ttl=56 time=40.800 ms
+64 bytes from 142.250.183.46: seq=1 ttl=56 time=31.900 ms
+64 bytes from 142.250.183.46: seq=2 ttl=56 time=33.200 ms
+64 bytes from 142.250.183.46: seq=3 ttl=56 time=37.560 ms
+64 bytes from 142.250.183.46: seq=4 ttl=56 time=36.960 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0% packet loss
+round-trip min/avg/max = 31.900/36.084/40.800 ms
+Ping Results
+706dec0d157f I am pinging do not worry
+PING google.com (142.250.183.46): 56 data bytes
+64 bytes from 142.250.183.46: seq=0 ttl=56 time=35.460 ms
+64 bytes from 142.250.183.46: seq=1 ttl=56 time=38.000 ms
+64 bytes from 142.250.183.46: seq=3 ttl=56 time=30.860 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 3 packets received, 40% packet loss
+round-trip min/avg/max = 30.860/34.773/38.000 ms
+Reason for Ping Failure
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+706dec0d14c7 #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d1583 #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d16d3 #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d166f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+706dec0d141f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+*** FM - Verification process Ends *** 
+706dec0d157f #==========================================================================================================================# 
+# WIFI-SOFT SOLUTIONS PRIVATE LIMITED CONFIDENTIAL
+# 
+# Copyrights (C) Wifi-soft Solutions Pvt. Ltd. All Rights Reserved.
+# 
+# NOTICE:  All information contained herein is, and remains the property of Wifi-soft Solutions Pvt. Ltd. and its suppliers,
+# if any.  The intellectual and technical concepts contained herein are proprietary to Wifi-soft Solutions Pvt. Ltd.
+# and its suppliers and may be covered by U.S. and international Patents, patents in process, and are protected by 
+# trade secret or copyright law.Dissemination of this information or reproduction of this material is strictly forbidden 
+# unless prior written permission is obtained from Wifi-soft Solutions Pvt. Ltd.
+#
+# THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY 
+# KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+# PARTICULAR PURPOSE.
+#=========================================================================================================================#
+
+
+Indio 2023010102 MobiMax
+*** FM - Verification process Ends *** 
